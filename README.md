@@ -28,7 +28,7 @@ To install this project, you will need to have Node.js and npm installed on your
 Clone the repository to your local machine.
 Navigate to the project directory and run npm install to install the dependencies.
 Set your OpenAI API key as an environment variable named OPENAI_API_KEY.
-Run npm start to start the server.
+npm run server to start the server.
 
 Credits
 This project was built by Sathish.
